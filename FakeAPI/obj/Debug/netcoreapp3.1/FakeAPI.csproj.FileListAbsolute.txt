@@ -1,0 +1,13 @@
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\bin\Debug\netcoreapp3.1\FakeAPI.exe
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\bin\Debug\netcoreapp3.1\FakeAPI.deps.json
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\bin\Debug\netcoreapp3.1\FakeAPI.runtimeconfig.json
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\bin\Debug\netcoreapp3.1\FakeAPI.runtimeconfig.dev.json
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\bin\Debug\netcoreapp3.1\FakeAPI.dll
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\bin\Debug\netcoreapp3.1\FakeAPI.pdb
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\obj\Debug\netcoreapp3.1\FakeAPI.csprojAssemblyReference.cache
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\obj\Debug\netcoreapp3.1\FakeAPI.AssemblyInfoInputs.cache
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\obj\Debug\netcoreapp3.1\FakeAPI.AssemblyInfo.cs
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\obj\Debug\netcoreapp3.1\FakeAPI.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\obj\Debug\netcoreapp3.1\FakeAPI.dll
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\obj\Debug\netcoreapp3.1\FakeAPI.pdb
+C:\Users\StudentDev\source\repos\FakeAPI\FakeAPI\obj\Debug\netcoreapp3.1\FakeAPI.genruntimeconfig.cache
