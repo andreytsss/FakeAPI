@@ -31,6 +31,11 @@ namespace FakeAPI
             DateTime user_meetTime = new DateTime(user_nameMeetYear, user_nameMeetMonth, user_nameMeetDay, user_nameMeetHour , user_nameMeetMinute , 0);
             meetManager.AddNewMeet(user_nameMeet, user_meetTime);
 
+            foreach (var item in meetManager.GetAll())
+            {
+                Console.WriteLine($"Имя встречи: {item.Name}");
+                Console.WriteLine($"Время встречи: {item.MeetTime} \r\n ");
+            }
             Console.ReadKey();
         }
     }
